@@ -21,4 +21,4 @@ students. It runs in your favourite browser.
 
 ### License
 
-Click [here](https://github.com/BenSt099/Grades/License.md) for more Information.
+Click [here](https://github.com/BenSt099/Grades/blob/main/LICENSE.md) for more Information.
