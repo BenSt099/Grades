@@ -1,0 +1,13 @@
+logging:
+  level:
+    root: info
+spring:
+  datasource:
+    password: iamgroot
+    username: grades-user
+    url: jdbc:postgresql://localhost:5432/grades
+  application:
+    name: Grades
+server:
+  shutdown: graceful
+  port: 9000
